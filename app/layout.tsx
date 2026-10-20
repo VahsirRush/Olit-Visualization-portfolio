@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "The cost of arriving late",
+  title: "Olit - Data Visualization Portfolio",
   description: "A 3D analytics dashboard on Brazilian e-commerce orders, reviews, delivery and sellers.",
 };
 
