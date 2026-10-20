@@ -1,0 +1,1 @@
+{"slope":-0.1081,"intercept":4.2334,"r":-0.3222,"r2":0.1038,"n":95824,"onTimeScore":4.294,"lateScore":2.565,"lateShare":0.0799,"note":"Score = intercept + slope x days late (days late is zero for on-time orders, capped at 60)."}
