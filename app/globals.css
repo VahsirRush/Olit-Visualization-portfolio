@@ -5,8 +5,8 @@
   --text-primary: #17170f; --text-secondary: #45433a; --text-muted: #68655a; --accent: #1d6b3a;
   --series-1: #2a78d6; --series-2: #eb6834; --series-3: #1baf7a; --series-4: #eda100; --series-5: #e87ba4; --neutral: #8c8b86; --series-red: #b8192b;
   --ramp-low: #cde2fb; --ramp-high: #184f95;
-  --serif: "Newsreader", Georgia, "Times New Roman", serif;
-  --sans: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --serif: var(--font-newsreader), Georgia, "Times New Roman", serif;
+  --sans: var(--font-archivo), "Helvetica Neue", Arial, sans-serif;
   --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 }
 * { box-sizing: border-box; }
