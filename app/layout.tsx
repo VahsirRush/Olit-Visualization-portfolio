@@ -16,7 +16,7 @@ const newsreader = Newsreader({
 });
 
 export const metadata: Metadata = {
-  title: "Olit - Data Visualization Portfolio",
+  title: "Olist - Data Visualization Portfolio",
   description: "A 3D analytics dashboard on Brazilian e-commerce orders, reviews, delivery and sellers.",
 };
 

@@ -74,7 +74,7 @@ export default function Page() {
     <div className="wrap">
       <header className="masthead">
         <div className="mast-top"><span>Orders &amp; reviews · Brazilian online marketplace</span><span>Analysis by Rishav Sen</span></div>
-        <h1>Olit - Data Visualization Portfolio</h1>
+        <h1>Olist - Data Visualization Portfolio</h1>
         <p className="deck">{copy.lead}</p>
         {meta.source === "sample" && (
           <p className="foot-note"><b>Sample data †</b> These figures come from synthetic orders made to test the page. The pipeline replaces them with the real Olist files; the layout and the method stay the same.</p>
